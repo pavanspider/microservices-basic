@@ -9,6 +9,7 @@
 	  <module>discoveryserver</module>
 	  <module>configserver</module>
 	  <module>microservice</module>
+	  <module>ApiGatewayApplication</module>
   </modules>
   
   <name>microservices</name>
